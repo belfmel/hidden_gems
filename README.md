@@ -1,4 +1,4 @@
-# hidden_gems
+# Hidden Gems
 
 When traveling to new cities or countries, one of the biggest struggles is finding local restaurants or attractions.  There are those websites that provide places to eat in new towns, but those places never showcase what the city has to offer.  Instead, they showcase the chain restaurants, the famous museums in the area, the tourist attractions.  This application, Hidden Gems, showcases the hole in the wall experiences and local restaurants to explore.  This app creates a community of users that share their experiences in the area as well as the unique restaurants they find along the way.  
 
