@@ -1,16 +1,5 @@
 # hidden_gems
 
-A new Flutter application.
+When traveling to new cities or countries, one of the biggest struggles is finding local restaurants or attractions.  There are those websites that provide places to eat in new towns, but those places never showcase what the city has to offer.  Instead, they showcase the chain restaurants, the famous museums in the area, the tourist attractions.  This application, Hidden Gems, showcases the hole in the wall experiences and local restaurants to explore.  This app creates a community of users that share their experiences in the area as well as the unique restaurants they find along the way.  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+In acknowledging the struggle of travelers exploring, the developer’s solution was to create an application called Hidden Gems.  They decided to create a mobile app using Flutter because this allows travelers that are on the go to be able to locate these hidden gems.  They used Firebase’s authentication, Firestore database, and cloud storage for the backend.  They used the current user’s location by GPS to help users figure out how far away they are from the associated hidden gem.  When a user posts a new hidden gem, the application gets their current GPS location, so the user does not need to provide an address associated with the gem.  Since the app is user based, users are allowed to vote on posts that they think are good or bad.  The ratings on the posts will tally up to provide the user who posted the gem a 5-star rating.  This helps prevent users from adding places that are not unique or just another chain restaurant.
